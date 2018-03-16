@@ -11,13 +11,13 @@ Tasks from [Codility](https://app.codility.com/programmers/lessons/) solved in J
 
 Task                   / Score % / Correctness % / Performance %
 						  
-*CyclicRotation              100%            100%           100% 
+*[CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)              100%            100%           100% 
 
-*FrogRiverOne                100%            100%           100% 
+*[FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)                100%            100%           100% 
 
-*OddOccurrencesInArray       100%            100%           100% 
+*[OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)       100%            100%           100% 
 
-*BinaryGap                   100%            100% 
+*[BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)                   100%            100% 
 
 
 
