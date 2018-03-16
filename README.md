@@ -19,6 +19,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)                   100%            100% 
 
+*[TestTapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)              100%            100%           100% 
+
 
 
 
