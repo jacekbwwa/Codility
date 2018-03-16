@@ -25,6 +25,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)              100%            100%           100% 
 
+*[MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)              100%            100%           100% 
+
 
 
 
