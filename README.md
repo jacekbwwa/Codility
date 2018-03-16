@@ -9,7 +9,7 @@ My solutions for codility lessons tasks in Java
 Tasks from [Codility](https://app.codility.com/programmers/lessons/) solved in Java
 -----------------------------------------------------------------------------------
 
-                          Task Score  / Correctness / Performance 
+Task                   / Score % / Correctness % / Performance %
 						  
 *CyclicRotation              100%            100%           100% 
 
