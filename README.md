@@ -21,6 +21,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[TestTapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)              100%            100%           100% 
 
+*[FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)              100%            100%           100% 
+
 
 
 

@@ -16,10 +16,15 @@ public class Data {
     protected int[] A;
     protected int N;
     protected int X;
+    protected int D;
+    protected int Y;
     protected int randomNum;
 
     Data() {
     }
+    
+    
+  
     
     protected int fillRandom(int N){
         this.N=N;
@@ -30,11 +35,14 @@ public class Data {
     }
     
     
-    protected int[] fillExample(int x, int N){
-        this.N = N;
-        this.X = X;
-        A = new int[]{9, 3, 9, 3, 9, 7, 9};
+    protected int[] fillExample(){
+        //A = new int[]{9, 3, 9, 3, 9, 7, 9};
          // A= new int[]{7,6,8,9,5,7,1};
+        //A=new int[]{3,1,2,4,3};
+       // A=new int[]{-5,-3,-4,-6,-5,3,1,2,4,3};
+        //A=new int[]{-1000,1000};
+      // A=new int[]{-3,-2,2,3};
+       //A=new int[]{-10, -5, -3, -4, -5};
         return A;
     }
 
