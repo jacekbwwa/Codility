@@ -1,8 +1,8 @@
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 
 My solutions for codility lessons tasks in Java
 
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 
 
 Tasks from [Codility](https://app.codility.com/programmers/lessons/) solved in Java
