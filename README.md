@@ -23,6 +23,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)              100%            100%           100% 
 
+*[PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)              100%            100%           100% 
+
 
 
 
