@@ -31,6 +31,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)              100%            100%           100% 
 
+*[Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)              100%            100%           100% 
+
 
 
 
