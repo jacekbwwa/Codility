@@ -29,6 +29,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)              100%            100%           100% 
 
+*[PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)              100%            100%           100% 
+
 
 
 
