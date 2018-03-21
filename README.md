@@ -33,6 +33,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)              100%            100%           100% 
 
+*[CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)              100%            100%           100% 
+
 
 
 
