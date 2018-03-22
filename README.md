@@ -35,6 +35,8 @@ Task                    Score %   Correctness %   Performance % :
 
 *[CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)              100%            100%           100% 
 
+*[MaxProductOfThree](MaxProductOfThree)              100%            100%           100% 
+
 
 
 
