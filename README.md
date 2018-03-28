@@ -37,7 +37,7 @@ Task                    Score %   Correctness %   Performance % :
 
 *[MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)              100%            100%           100% 
 
-*{CountFactors}(https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)              100%            100%           100% 
+*[CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)              100%            100%           100% 
 
 
 
