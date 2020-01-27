@@ -1,6 +1,6 @@
 
 
-# My solutions for codility lessons tasks in Java
+# My solutions for codility lessons tasks in Java  
 
 
 
